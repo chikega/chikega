@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Gary Chike DMD MS
-
 ![As a DMD, I approve of DMD](Twitter_DMD_approve.png)
 
 > “As a **DMD** myself, I *approve* of the D Language compiler: **DMD**”  
