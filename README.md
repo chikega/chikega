@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gary Chike
+# 👋 Hi, I'm Gary Chike DMD MS
 
 ![As a DMD, I approve of DMD](Twitter_DMD_approve.png)
 
