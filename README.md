@@ -5,7 +5,7 @@
 > “As a **DMD** myself, I *approve* of the D Language compiler: **DMD**”  
 > — [@chikega](https://twitter.com/chikega/status/1534981077510668288), June 9, 2022
 
-🦷 Dentist • 🖥️ Programmer • 🎓 Educator • 💡 Lifelong Learner
+🦷 Dentist • 🖥️ Programmer • 🎓 Educator • 💡 Lifelong Learner 🎨 Artist
 
 ## 🧠 Languages I Explore
 
