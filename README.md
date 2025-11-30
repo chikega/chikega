@@ -9,7 +9,7 @@
 
 - 🦷 **D** — My long-time companion and compiler soulmate (DMD-approved!)
 - 🧵 **Fantom** — JVM elegance with a dash of type-safe poetry
-- ⚡ **PureBasic** — My first *real*, fully shipped cross-platform app (CoursePack Builder) came from this tiny native-compiled marvel
+- ⚡ **PureBasic** — My first *real*, fully shipped cross-platform app (CoursePack Builder™) came from this tiny native-compiled marvel
 - 🧬 **8th**, **Phix**, **Raku** — The unsung heroes of postmodern stack-based & hybrid paradigms
 - 🧠 **Racket** — Lisp in a blazer; clean, powerful, and delightfully weird
 - 🧽 **Pharo** — Smalltalk reimagined; objects as far as the eye can see
