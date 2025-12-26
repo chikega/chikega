@@ -14,6 +14,7 @@
 - 🧠 **Racket** — Lisp in a blazer; clean, powerful, and delightfully weird
 - 🧽 **Pharo** — Smalltalk reimagined; objects as far as the eye can see
 - 🏛️ **Object Pascal** — A Wirthian classic I return to again and again (Delphi, PascalABC.NET, Oxygene)
+- <img width="20" height="20" alt="ring-20" src="https://github.com/user-attachments/assets/f9475cfd-5498-4f2a-aebd-95f2d9298495" /> **Ring** — Multi-paradigm, "batteries-included" language
 - ⚙️ **C**, **Rust**, **Odin**, **Zig** — Low-level, high-performance adventuring
 - 💎 **Ruby**, **Crystal** — Expressive, elegant, and surprisingly sharp
 - 📱 **Dart**, **Kotlin**, **Swift** — Forays into the modern mobile & app frontier
